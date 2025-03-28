@@ -8,7 +8,7 @@ public class Main {
         // do this
         }
         */
-    
+        
     int salary = 25400;
     if (salary > 10000) {
         salary = salary + 2000;
@@ -17,7 +17,7 @@ public class Main {
     }
     
     // multiple if-else
-
+    
     if (salary > 10000) {
         salary += 2000; // salary = salary + 2000
     } else if (salary > 20000) {
@@ -31,3 +31,4 @@ public class Main {
     }
 
 }
+
